@@ -1,16 +1,30 @@
-### Hi there 👋
+# ¡Hola! Soy [TU NOMBRE]
 
-<!--
-**hernan-varela/hernan-varela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="TU LINK DE GIF" alt="GIF" width="200"/>
 
-Here are some ideas to get you started:
+## Sobre mí 🚀
+- 💻 Desarrollador de software Full Stack
+- 🌱 Estudiante de Ingeniería en Informática
+- 🎓 [UNIVERSIDAD] - Ingeniería en Informática
+- 📚 Actualmente aprendiendo [HABILIDAD O TECNOLOGÍA]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Tecnologías 🤹‍♀️
+### Lenguajes de Programación
+[ICONO DE LENGUAJE] [LENGUAJE] 
+
+### Frontend
+[ICONO DE TECNOLOGÍA] [TECNOLOGÍA]
+
+### Backend
+[ICONO DE TECNOLOGÍA] [TECNOLOGÍA]
+
+### Base de Datos
+[ICONO DE TECNOLOGÍA] [TECNOLOGÍA]
+
+### Herramientas de Desarrollo
+[ICONO DE HERRAMIENTA] [HERRAMIENTA]
+
+## Contacto 📞
+- 📧 EMAIL
+- 💼 [LINKEDIN](LINKEDIN_URL)
+
