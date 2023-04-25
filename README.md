@@ -17,7 +17,7 @@ Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu e
 - ![CSS3](https://img.icons8.com/color/40/000000/css3.png) CSS
 - ![HTML5](https://img.icons8.com/color/40/000000/html-5.png) HTML
 - ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png) JavaScript
-- ![Sequelize](https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg height="20px" width="20px")  Sequelize
+- ![Sequelize](https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg){height="20px" width="20px"} Sequelize
 
 
 ## Proyectos 💼
