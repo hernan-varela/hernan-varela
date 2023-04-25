@@ -1,4 +1,4 @@
-# ¡Hola! Soy Hernan Nicolas Varela   <img align="right" src="https://i.gifer.com/CJCG.gif" alt="GIF" width="200"/>
+# ¡Hola! Soy Hernan Nicolas Varela   <img src="https://media.giphy.com/media/l1J9xmSYZfz25nkpK/giphy.gif" width="300"/> 
 
 
 
