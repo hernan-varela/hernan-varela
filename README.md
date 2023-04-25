@@ -6,10 +6,11 @@
 ## Acerca de mi <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="100" style="float: right; margin-left: 10px;"/>
 Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu experiencia]. Me apasiona construir soluciones creativas e innovadoras para problemas complejos. Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas tecnologías para mejorar mis habilidades.
 
+
 ## Habilidades y Tecnologías 💻
 - ![React](https://img.icons8.com/office/40/000000/react.png) React
 - ![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png) MongoDB
-- ![Express](https://cdn.iconscout.com/icon/free/png-256/express-4-1175029.png) Express
+- ![Express](https://cdn.iconscout.com/icon/free/png-64/express-4-1175029.png) Express
 - ![GitHub](https://img.icons8.com/ios-glyphs/40/000000/github.png) GitHub
 - ![Trello](https://img.icons8.com/color/40/000000/trello.png) Trello
 - ![Redux](https://img.icons8.com/color/40/000000/redux.png) Redux
@@ -18,6 +19,7 @@ Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu e
 - ![JavaScript](https://img.icons8.com/color/40/000000/javascript.png) JavaScript
 - ![Sequelize](https://img.icons8.com/color/40/000000/sequelize.png) Sequelize
 - ![Mongoose](https://img.icons8.com/color/40/000000/mongoose.png) Mongoose
+
 
 ## Proyectos 💼
 * [Proyecto 1](Link al proyecto) - Breve descripción del proyecto
