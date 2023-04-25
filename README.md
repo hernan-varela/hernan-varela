@@ -31,9 +31,21 @@ En la actualidad, me dedico a la reparación de dispositivos móviles y computad
 
 
 ## Proyectos 💼
-* [Proyecto 1](Link al proyecto) - Breve descripción del proyecto
-* [Proyecto 2](Link al proyecto) - Breve descripción del proyecto
-* [Proyecto 3](Link al proyecto) - Breve descripción del proyecto
+
+* Full Stack Web Developer - Hotel Tayrona (https://tayrona-app.netlify.app/) - proyecto grupal- Diseñamos y desarrollamos una página web para un hotel que permite a los usuarios ver y reservar habitaciones. La plataforma incluye características como autenticación de usuarios, búsquedas, filtrados combinados, ordenamientos, baneo de usuarios, envío de emails, entre otros.
+
+Para el desarrollo, se utilizo las siguientes tecnologías:
+
+Frontend: React
+Backend: Express
+Base de datos: MongoDB
+
+Nos enfocamos en la implementación de una interfaz atractiva y fácil de usar, y en crear un sistema seguro y escalable que garantice la privacidad de los usuarios y la confidencialidad de los datos del hotel.
+
+* Full Stack Web Developer- DogBook	(https://github.com/hernan-varela/PI-Dog-SoyHenry) - Desarrollé una página web utilizando una API de perros en la que los usuarios pueden buscar todas las razas existentes, con funciones avanzadas de búsqueda, filtrado y ordenamiento. También agregué un sistema de autenticación y la capacidad de guardar perros favoritos en una base de datos MySQL.
+
+Para la implementación, utilicé React en el frontend y Express en el backend, asegurándome de que la aplicación sea altamente escalable y segura. Esta experiencia me permitió mejorar mis habilidades en desarrollo web y bases de datos relacionales, además de aprender sobre integración de APIs externas y autenticación de usuarios.
+
 
 ## Contacto 📞
 - 📧 Correo electrónico: hernanvarela45@gmail.com
