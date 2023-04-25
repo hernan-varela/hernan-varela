@@ -1,4 +1,3 @@
-¡Por supuesto! Aquí te dejo un ejemplo de README.md en Markdown:
 
 # ¡Hola!👋   Soy Hernan Nicolas Varela  
 
