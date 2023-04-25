@@ -1,7 +1,7 @@
 ¡Por supuesto! Aquí te dejo un ejemplo de README.md en Markdown:
 
 # ¡Hola! Soy Hernan Nicolas Varela 👋
-<img src="https://media3.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif?cid=ecf05e47qxlz56ojtjizbcvhyvxm20dm19my2f18y1m2vyw2&rid=giphy.gif&ct=g" width="300"/>
+<img src="https://media.giphy.com/media/l0HlNIXjW3q8nqkgM/giphy.gif" width="300"/>
 
 ## Acerca de mi 🧑‍💻
 Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu experiencia]. Me apasiona construir soluciones creativas e innovadoras para problemas complejos. Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas tecnologías para mejorar mis habilidades.
