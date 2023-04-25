@@ -1,6 +1,7 @@
 ¡Por supuesto! Aquí te dejo un ejemplo de README.md en Markdown:
 
-# ¡Hola! Soy Hernan Nicolas Varela 👋   <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="100"/>
+# ¡Hola! Soy Hernan Nicolas Varela 👋 <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="100" style="float: right; margin-left: 10px;"/>
+
 
 
 ## Acerca de mi 🧑‍💻
