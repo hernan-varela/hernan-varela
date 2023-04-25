@@ -1,5 +1,5 @@
-# ¡Hola! Soy Hernan Nicolas Varela   <img src="[https://i.gifer.com/EFJC.gif](https://tenor.com/es/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062)" width="300"/> 
-https://i.gifer.com/EFJC.gif
+# ¡Hola! Soy Hernan Nicolas Varela   <img src="https://tenor.com/es/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062" width="300"/> 
+
 
 
 
