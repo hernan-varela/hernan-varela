@@ -9,7 +9,7 @@ Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu e
 ## Habilidades y Tecnologías 💻
 - ![React](https://img.icons8.com/office/40/000000/react.png) React
 - ![MongoDB](https://img.icons8.com/color/40/000000/mongodb.png) MongoDB
-- ![Express](https://3987944058-files.gitbook.io/~/files/v0/b/gitbook-legacy-files/o/assets%2F-Lgyno4NC7rhy49BAEjN%2F-Lh14lb3LH4C886qWxYA%2F-Lh1DZeIUQennGd9RiHe%2FScreen%20Shot%202019-06-10%20at%2011.30.20%20AM.png?alt=media&token=784b79f6-81b5-4308-97a2-155afb9d496f) Express
+- ![Express](https://p7.hiclipart.com/preview/545/451/583/node-js-express-js-javascript-solution-stack-web-application-others-thumbnail.jpg) Express
 - ![GitHub](https://img.icons8.com/ios-glyphs/40/000000/github.png) GitHub
 - ![Trello](https://img.icons8.com/color/40/000000/trello.png) Trello
 - ![Redux](https://img.icons8.com/color/40/000000/redux.png) Redux
