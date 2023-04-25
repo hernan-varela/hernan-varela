@@ -4,7 +4,11 @@
 
 
 ## Acerca de mi 
-Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu experiencia]. Me apasiona construir soluciones creativas e innovadoras para problemas complejos. Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas tecnologías para mejorar mis habilidades.
+
+Soy un desarrollador web full Stack Jr, graduado de la Academia Soy Henry; actualmente en mi segundo año de la carrera Ingeniería en Informática. Mi formación académica y en desarrollo web me han permitido mejorar el trabajo en equipo, bajo presión y a crear soluciones innovadoras. Poseo experiencia en tecnologías como NodeJS, React, Redux y MongoDB, además de conocimientos en metodologías ágiles, GIT, estructura de datos y algoritmos.Soy una persona proactiva, comprometida y con ganas de seguir aprendiendo y mejorando mis habilidades como desarrollador web, siempre buscando superar mis límites y alcanzar nuevos objetivoss.
+
+Actualmente me dedico a la reparación de celulares y PC. Además, realizo proyectos personales que me permiten avanzar en mi carrera como programador y mejorar mis habilidades.
+
 
 
 ## Habilidades y Tecnologías 💻
