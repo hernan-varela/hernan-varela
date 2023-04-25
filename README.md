@@ -5,7 +5,11 @@
 
 ## Acerca de mi 🌟
 ### ¿Quien soy?🔥🎓
-Soy un desarrollador web full Stack Jr, graduado de la Academia Soy Henry; actualmente en mi segundo año de la carrera Ingeniería en Informática. Mi formación académica y en desarrollo web me han permitido mejorar el trabajo en equipo, bajo presión y a crear soluciones innovadoras. Poseo experiencia en tecnologías como NodeJS, React, Redux y MongoDB, además de conocimientos en metodologías ágiles, GIT, estructura de datos y algoritmos.Soy una persona proactiva, comprometida y con ganas de seguir aprendiendo y mejorando mis habilidades como desarrollador web, siempre buscando superar mis límites y alcanzar nuevos objetivoss.
+Soy un desarrollador web Full Stack Jr, graduado de la Academia Soy Henry y actualmente en mi segundo año de la carrera de Ingeniería en Informática. Mi formación académica y en desarrollo web me ha permitido mejorar habilidades como el trabajo en equipo, la gestión del tiempo y la creatividad en la resolución de problemas.
+
+Poseo experiencia en tecnologías como NodeJS, React, Redux y MongoDB, así como conocimientos en metodologías ágiles, GIT, estructura de datos y algoritmos.
+
+Soy una persona proactiva y comprometida, siempre buscando seguir aprendiendo y mejorando mis habilidades como desarrollador web. Me apasiona enfrentar nuevos desafíos y superar mis límites para alcanzar nuevos objetivos.
 
 ### ¿Qué hago?📱🤝
 En la actualidad, me dedico a la reparación de dispositivos móviles y computadoras, brindando soluciones tecnológicas para mis clientes. También, realizo proyectos personales en los que implemento diferentes tecnologías y metodologías de desarrollo, con el objetivo de mejorar mis habilidades y aprender nuevas herramientas. Estoy siempre en busca de nuevos desafíos y oportunidades para crecer como profesional.
