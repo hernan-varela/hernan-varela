@@ -1,12 +1,11 @@
-# ¡Hola! Soy Hernan Nicolas Varela
+# ¡Hola! Soy Hernan Nicolas Varela  <img align="right" src="(http://www.gifsde.com/e/gato-en-codigo-ascii/)" alt="GIF" width="200"/>
 
-<img align="right" src="https://giphy.com/embed/PkD8o1I8w55aE" width="480" height="378" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ascii-en-imgenes-PkD8o1I8w55aE">via GIPHY</a></p> alt="GIF" width="200"/> 
+
 
 ## Sobre mí 🚀
 - 💻 Desarrollador de software Full Stack
 - 🌱 Estudiante de Ingeniería en Informática
 - 🎓 [UNIVERSIDAD] - Ingeniería en Informática
-- 📚 Actualmente aprendiendo [HABILIDAD O TECNOLOGÍA]
 
 ## Habilidades y Tecnologías 🤹‍♀️
 ### Lenguajes de Programación
