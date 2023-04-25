@@ -1,8 +1,6 @@
-# ¡Hola! Soy Hernan Nicolas Varela  <img src="https://i.gifer.com/CJCG.gif" width="300"/> 
+# ¡Hola! Soy Hernan Nicolas Varela  <img src="https://gifer.com/embed/CJCG" width="300"/> 
 
 
-
-<iframe src="https://gifer.com/embed/CJCG" width=480 height=378.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>
 
 ## Sobre mí 🚀
 - 💻 Desarrollador de software Full Stack
