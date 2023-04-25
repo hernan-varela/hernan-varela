@@ -1,9 +1,9 @@
 
-# ¡Hola!👋   Soy Hernan Nicolas Varela  
+# ¡Hola!👋   Soy Hernan Nicolas Varela  <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="100" style="float: right; margin-left: 10px;"/>
 
 
 
-## Acerca de mi <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="100" style="float: right; margin-left: 10px;"/>
+## Acerca de mi 
 Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu experiencia]. Me apasiona construir soluciones creativas e innovadoras para problemas complejos. Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas tecnologías para mejorar mis habilidades.
 
 
@@ -27,8 +27,8 @@ Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu e
 * [Proyecto 3](Link al proyecto) - Breve descripción del proyecto
 
 ## Contacto 📞
-- 📧 Correo electrónico: [tu correo electrónico]
-- 💼 LinkedIn: [tu perfil de LinkedIn]
-- 🌐 Sitio web: [tu sitio web (opcional)]
+- 📧 Correo electrónico: hernanvarela45@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/HernanNicolasVarela
+
 
 ¡Gracias por visitar mi perfil! Si tienes alguna pregunta o te gustaría colaborar en un proyecto, no dudes en contactarme.
