@@ -1,7 +1,7 @@
 ¡Por supuesto! Aquí te dejo un ejemplo de README.md en Markdown:
 
-# ¡Hola! Soy Hernan Nicolas Varela 👋
-<img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="300"/>
+# ¡Hola! Soy Hernan Nicolas Varela 👋   <img src="https://media.tenor.com/nHBgEK6zEQMAAAAi/cat-gray.gif" width="100"/>
+
 
 ## Acerca de mi 🧑‍💻
 Soy un apasionado desarrollador web Full Stack con experiencia en [Menciona tu experiencia]. Me apasiona construir soluciones creativas e innovadoras para problemas complejos. Me encanta trabajar en equipo y siempre estoy buscando aprender nuevas tecnologías para mejorar mis habilidades.
